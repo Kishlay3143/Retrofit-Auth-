@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Retrofit Authentication</string>
+    <string name="login_link_txt">Already Registered ? SignIn</string>
+    <string name="sign_up_btn">Sign up</string>
+    <string name="login">Login</string>
+    <string name="register_link">Not Registered? Create Your Account</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="users">Users</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Dashboard</string>
+    <string name="kishlay_raj">Kishlay Raj</string>
+    <string name="kishlay_gmail_com">kishlay@gmail.com</string>
+    <string name="update_user_account">Update User Account</string>
+    <string name="update_your_account">Update Your Account</string>
+    <string name="current_password">Current Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="update_your_password">Update Your Password</string>
+    <string name="logout">logout</string>
+    <string name="delete">delete</string>
+</resources>
